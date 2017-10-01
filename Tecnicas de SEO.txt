@@ -49,7 +49,8 @@ ele também verifica, o sexo, seus costumes, interesse pessoal, fachetaria, se t
 * Qual sua localidade
 * As linguas que voce fala
 * Erros de gramática são penalizados.
-
+* URL Tem importância fundamental
+* Verificar o numero de resultados que o google te retorna com as palavras chaves buscadas
 
 
 
@@ -73,3 +74,9 @@ E onde entra o SEO nessa história e o Panda, Penguin e Hummingbird?
 * Penguin: O Penguin é uma atualização lançada em Abril de 2012, com o objetivo de identificar e reduzir a importância dos links feitos para seu site de forma não natural. Como vamos ver durante o curso, os links existentes para suas páginas são uma forma de indicar o quão relevante essa sua página é em determinado assunto. Com isso em mente, muitos webmasters passaram a colocar links para suas páginas em sites que serviam apenas como um diretório de links. Uma estratégia simples para conseguir bons rankings, não? Não, depois do Penguin. Com essa atualização, esses sites com diretórios de links perderam relevância e passou a prevalecer a naturalidade e a contextualização com que o link aparece.
 
 * Hummingbird: Em meados de setembro de 2013, o Google lançou essa atualização para entender de uma forma mais precisa a intenção do usuário nas buscas. Como assim? Se você digitar "pizzaria belo horizonte" em uma busca, ele vai reconhecer que você esteja interessado nos endereços de pizzarias dentro ou próximo de Belo Horizonte. Com isso, ele vai te sugerir endereços e pizzarias bem avaliadas da região. Dessa forma ele tenta descobrir o que o usuário quer com aquela busca e devolve resultados indicados para isso.
+
+Passos.
+
+Qual serviço ou produto você vende em seu site?
+Como seus clientes procuram por seus produtos e serviços nos buscadores?
+Quais são os objetivos de negócio com o projeto de SEO?
