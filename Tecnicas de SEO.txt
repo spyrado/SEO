@@ -1,0 +1,75 @@
+Técnicas de SEO.
+
+- Seu site no topo.
+- Seu Site com melhor VISIBILIDADE.
+- Seu site Otimizado para os motores de busca como Google, Yahoo, Bind etc..
+
+IMPORTANTE!
+
+Volume de links não é o mais importante aqui. É preciso focar na qualidade dos links que são conseguidos.
+o que isso significa? significa que se 1000 jogadores te elogiarem, ainda assim não chegará na relevancia de um neymar te elogiando por exemplo.
+Também levam em consideração a contextualização dos links, exemplo um site de culinária linka para um site de advogado não é tão relevante, porem se o site da OAB linkar para o site de um ADVOGADO, isso seria super relevante.
+
+Sites responsivos ajudam no rankeamento.
+Tempo de carregamento também afeta no rankeamento.
+Sites que linkam pro seu site é PRIMORDIAL para ter um bom rankeamento.
+Site bem estruturado ajuda no rankeamento.
+
+Como funciona?
+
+Nessas otimizações envolve fatores como links, qualidade de texto, estrutura e organização das páginas, design, acessibilidade do site, tempo de carregamento e muitos outros fatores.
+
+O spider(robo do google), acessa os sites a todo momento, indexando o conteúdo deles, verificando sobre o que fala aquele site, qual o assunto daquele site.
+
+Como fazer um site Relevante?
+
+Sites que linkam o seu site, são como digamos que o neymar falando, olha essa camisa da marca X é boa, então os links são "as pessoas que falam do seu site", que o tornam relevante para o Google.
+
+Sucesso?
+
+O sucesso de uma página deve ser medido por um critério: o visitante faz o que você quer que eles façam?
+
+Como seu site é INDEXADO pelos spiders?
+
+O tempo inteiro os buscadores estão acessando sites e os indexando utilizando os spiders. Durante essa indexação, os buscadores acessam as páginas e links que as páginas possuem, observando o conteúdo de cada um delas e determinando o assunto abordado, termos relevantes, qualidade da imagem e diversos fatores que influenciam no rankeamento.
+
+Rankeamento por indexação e relevancia, POREM ele também faz rankeamento por PERFIL.
+
+RANKEAMENTO POR PERFIL
+
+Se eu acesso muito determinado site ele pode ficar nos primeiros da busca, POREM se meu amigo não acessa tanto aquele site, acessa mais outro tipo de site com o MESMO assunto, AQUELE site que EU ACESSO pode não estar em PRIMEIRO nas buscas, pode estar em SEXTO por exemplo.
+
+ele também verifica, o sexo, seus costumes, interesse pessoal, fachetaria, se tiver perfil no google +, ele vai absorver ainda mais seus costumes e gostos pessoais, para poder lhe oferecer uma busca mais refinada.
+
+* O Conteudo do seu site.
+* O que tem dentro dele.
+* Do que ele fala.
+* Os links, a autoridade que é passada para você
+* Quanto tempo de domínio você tem.
+* Qual sua localidade
+* As linguas que voce fala
+* Erros de gramática são penalizados.
+
+
+
+
+FATORES ESPECIFICOS
+
+Navegador, localização, buscas anteriores, sites preferidos e diversos outros fatores são exemplos de características que podem influenciar no resultado da busca.
+
+
+
+
+
+Esses 200 critérios são o ponto vital para conseguir fazer com que seu site apareça bem nas buscas. Eles vão desde fatores ligados ao domínio, como a idade do domínio (quanto mais antigo, melhor) ou então se a palavra-chave (falaremos mais disso mais à frente) faz parte do nome do domínio; passando por fatores ligados com a página em si, como títulos que são dados para as páginas através da tag <title> do HTML, existência e densidade da palavra-chave no conteúdo, uso adequado das tags <h1>, <h2> e <h3>, exibição adequada de imagens; passa também por uma avaliação dos links, verificando a relevância dos sites para os quais o seu site faz links, existência de links quebrados, contextualização; e também passa por diversos outros fatores como velocidade de carregamento da página, existência de certificado de que o site é seguro (SSL), análise de relevância nas redes sociais e muito mais.
+
+
+" Todos esses critérios formam um algoritmo criado por um dos fundadores do Google, Larry Page. Esse algoritmo é o PageRank e também é usado como fator para definir posicionamento nas buscas. "
+
+E onde entra o SEO nessa história e o Panda, Penguin e Hummingbird?
+
+* Panda: Essa atualização foi lançada em Fevereiro de 2011 e seu objetivo principal era priorizar os sites com conteúdo de qualidade. Mas como ele pode saber isso? Analisando alguns fatores, como a qualidade da escrita do conteúdo (sim, erros de gramática são penalizados), a profundidade com que o assunto é coberto, o conteúdo é original ou duplicado. Em resumo, o Panda é uma atualização intimamente ligada com a qualidade do conteúdo oferecido em seu site.
+
+* Penguin: O Penguin é uma atualização lançada em Abril de 2012, com o objetivo de identificar e reduzir a importância dos links feitos para seu site de forma não natural. Como vamos ver durante o curso, os links existentes para suas páginas são uma forma de indicar o quão relevante essa sua página é em determinado assunto. Com isso em mente, muitos webmasters passaram a colocar links para suas páginas em sites que serviam apenas como um diretório de links. Uma estratégia simples para conseguir bons rankings, não? Não, depois do Penguin. Com essa atualização, esses sites com diretórios de links perderam relevância e passou a prevalecer a naturalidade e a contextualização com que o link aparece.
+
+* Hummingbird: Em meados de setembro de 2013, o Google lançou essa atualização para entender de uma forma mais precisa a intenção do usuário nas buscas. Como assim? Se você digitar "pizzaria belo horizonte" em uma busca, ele vai reconhecer que você esteja interessado nos endereços de pizzarias dentro ou próximo de Belo Horizonte. Com isso, ele vai te sugerir endereços e pizzarias bem avaliadas da região. Dessa forma ele tenta descobrir o que o usuário quer com aquela busca e devolve resultados indicados para isso.
